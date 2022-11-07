@@ -1,0 +1,10 @@
+Cisco Packet Tracer
+When the Packet tracer is opened,A menu bar,main toolbox,common tools bar,a logical/physical workspace,a simulation bar,a network component box
+and many more tools can be seen which are useful while trying to build a model of the network.
+A device is taken from the devices menu which is at the bottom left corner of the screen.In case 1,we have selected a pc which was then connected to a Server.
+We use the copper crossover wire to connect these since they are devices of different type.The copperr crossover wire can be selected from the same menu at the bottom left corner.If the green signal is shown,the connection has been established successfully.It is done using fast ethernet.
+IP of both the devices is set accordingly(In this cased 10.0.0.x)
+A subnet mask is generated accordingly by the software.
+Later a PDU is sent to check the establishment of the connection and verification of reliability.
+We click on the auto-capture or play button to send the PDU which can be viewed in the simutaltion panel present at the right hand corner of the screen,whereby you can also see other Play controls and an Event List.
+Don't use dirrect Speed.
